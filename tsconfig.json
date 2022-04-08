@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        // De donde puede sacar los tipos de dato
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "lib": ["DOM","ES2021"]
+    }
+}
